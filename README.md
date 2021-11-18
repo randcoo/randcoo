@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @randcoo
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning juc
-- 💞️ I’m looking to collaborate on fall in love.hhh
-- 📫 How to reach me zhutao.code@gmail,com
+- 👀 I’m very interested in programming because it is pure.
+- 🌱 I’m currently confused about my career, so I decided to summarize and record all my programming experience.
+- 💞️ I’m doing the coolest thing in my life.
+- 📫 How to reach me zhutao.code@gmail.com
 
 <!---
 randcoo/randcoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
